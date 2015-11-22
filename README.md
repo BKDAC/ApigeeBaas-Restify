@@ -1,6 +1,6 @@
-# ApigeeBaas-Restify
+# ApigeeBaas-restify
 
-##Apigee-Baas & Restify in Action
+##Apigee-Baas & restify in Action
 
 ###restify is a node.js module built specifically to enable you to build correct REST web services. It intentionally borrows heavily from express as that is more or less the de facto API for writing web applications on top of node.js.
 
